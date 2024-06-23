@@ -75,7 +75,7 @@ const CountriesExplorer = () => {
               ))}
             </Grid>
           </List>
-          {filteredData.length != 0 ? (
+          {filteredData.length !== 0 ? (
             <Grid
               container
               justifyContent="center"
