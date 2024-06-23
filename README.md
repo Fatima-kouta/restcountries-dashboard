@@ -2,7 +2,7 @@
 
 1. Clone the repository:
     bash
-    git clone https://github.com/Fatima-kouta/restcountries-dashboard.git
+    git clone https://github.com/Fatima-kouta/restcountries-dashboard.git /
     cd restcountries-dashboard
   
 2. Install dependencies:
